@@ -1,0 +1,10 @@
+16:01:52 **** Incremental Build of configuration Debug for project 011_Fault_Gen_Stack_Analysis ****
+make -j8 all 
+arm-none-eabi-size   011_Fault_Gen_Stack_Analysis.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5796	    108	   1580	   7484	   1d3c	011_Fault_Gen_Stack_Analysis.elf
+Finished building: default.size.stdout
+ 
+
+16:01:53 Build Finished. 0 errors, 0 warnings. (took 1s.5ms)
+
